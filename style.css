@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100dvw;
+  height: 100dvh;
+  background-color: antiquewhite;
+}
+
+.catFactsDiv .catPicturesDiv {
+
+  border: 1px solid black;
+  width: 100px;
+  height: 500px;
+}
+
+.catPicturesDiv img {
+  max-width: 100%;
+}
+
+button {
+  background-color: aquamarine;
+}
